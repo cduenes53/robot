@@ -1,0 +1,32 @@
+body{
+	background-color: #27bca8;
+}
+h1{
+	color: white; 
+	margin-left: 25%; 
+	margin-right: 25%; 
+	text-align: center; 
+	background-color: #2d645c; 
+	padding: 15px;
+	font-family: sans-serif;
+	border-width: 5px;
+	border-style: double;
+	border-color: #153631;
+}
+p{font-family: sans-serif; 
+	font-size: 12px; 
+	color: #153631;}
+
+a{text-decoration: none;
+	color: white; 
+	font-size: 12px; 
+	font-family: sans-serif;}
+
+a:hover{color: white; font-size: 14px}
+
+ul{list-style-type: none;}
+
+li{display: inline; padding: 3px; background-color: #2d645c; border-width: 5px;
+	border-style: double;
+	border-color: #153631;}
+li:hover{background-color: #69cfbf;}
